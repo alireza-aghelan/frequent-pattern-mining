@@ -23,6 +23,8 @@ Apriori algorithm flowchart
 
 <img width="425" alt="image" src="https://user-images.githubusercontent.com/47056654/195401231-748cd527-c620-449f-9579-6423ef36d267.png">
 
+There is no lift in the above flowchart. But we considered it in extracting frequent patterns.
+
 below are some frequent patterns extracted by the Apriori algorithm 
 
 part 1:
