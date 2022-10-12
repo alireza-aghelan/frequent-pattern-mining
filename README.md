@@ -16,9 +16,11 @@ Our main goal is to extract the following patterns from Divar and Digikala datas
 
 4- Extracting frequent patterns for the product and platform used in the Divar dataset
 
-Apriori algorithm flowchart
+There are three major components of Apriori algorithm:
 
-<img width="425" alt="image" src="https://user-images.githubusercontent.com/47056654/195396185-d9bef99d-8bb2-4ead-9870-4f15adf38ab9.png">
+Support
+Confidence
+Lift
 
 in addition to support and confidence, we also considered lift
 
