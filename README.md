@@ -21,7 +21,7 @@ Support - Confidence - Lift are three major components of Apriori algorithm
 
 Apriori algorithm flowchart
 
-<img width="144" alt="image" src="https://user-images.githubusercontent.com/47056654/195399701-400425fc-8b16-4b8f-9a7b-34b9daf44137.png">
+<img width="260" alt="image" src="https://user-images.githubusercontent.com/47056654/195399995-9d13549f-cf08-4a65-8133-9de0781fb1cf.png">
 
 below are some frequent patterns extracted by the Apriori algorithm 
 
