@@ -1,6 +1,5 @@
 # frequent-pattern-mining
 In this project, we want to extract frequent patterns from Divar and Digikala datasets.
-Various statistical algorithms have been implemented to extract frequent patterns and associative rules, in this project, we used the Apriori algorithm to extract frequent patterns.
 
 datasets can be downloaded from the link below :
 
@@ -16,13 +15,13 @@ Our main goal is to extract the following patterns from Divar and Digikala datas
 
 4- Extracting frequent patterns for the product and platform used in the Divar dataset
 
-There are three major components of Apriori algorithm:
+Various statistical algorithms have been implemented to extract frequent patterns and associative rules, in this project, we used the Apriori algorithm to extract frequent patterns.
 
-Support
-Confidence
-Lift
+Support - Confidence - Lift are three major components of Apriori algorithm
 
-in addition to support and confidence, we also considered lift
+Apriori algorithm flowchart
+
+<img width="144" alt="image" src="https://user-images.githubusercontent.com/47056654/195399701-400425fc-8b16-4b8f-9a7b-34b9daf44137.png">
 
 below are some frequent patterns extracted by the Apriori algorithm 
 
